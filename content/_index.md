@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Bussiness AI Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        To drive innovation and transform businesses through cutting-edge AI research, industry collaborations, and fostering learning and teaching excellence.
   
   - block: collection
     content:
