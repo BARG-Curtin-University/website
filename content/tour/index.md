@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Advancing Language Models
+        content: 'Investigate the underlying mechanisms and architectures of language models to uncover novel techniques and algorithms for improved performance and efficiency'
         align: left
         background:
           image:
@@ -28,8 +28,38 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Ethical Implications
+        content: 'Analyse the ethical implications and biases inherent in language models, and develop methods to mitigate their negative impact on society'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: Potential Applications
+        content: 'Explore the potential applications of language models across various domains, including healthcare, education, business, and communication'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: Interdiscplinary Collaboration
+        content: 'Engage in interdisciplinary collaborations with experts from diverse fields to foster a holistic understanding of language model research and applications'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+       - title: Responsible AI Practices
+        content: 'Disseminate research findings and resources through open access platforms to promote transparency, accessibility, and widespread adoption of responsible AI practices.'
         align: right
         background:
           image:
