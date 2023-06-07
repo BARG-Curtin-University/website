@@ -58,7 +58,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-       - title: Responsible AI Practices
+      - title: Responsible AI Practices
         content: 'Disseminate research findings and resources through open access platforms to promote transparency, accessibility, and widespread adoption of responsible AI practices.'
         align: right
         background:
