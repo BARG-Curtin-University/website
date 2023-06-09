@@ -27,7 +27,7 @@ sections:
       # appointment_url: 'https://calendly.com'
       contact_links:
         - icon: linkedin
-          icon_pack: fas
+          icon_pack: fab
           name: Discuss on LinkedIn
           link: 'https://www.linkedin.com/company/barg-curtin-university'
 
