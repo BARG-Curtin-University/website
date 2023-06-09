@@ -51,7 +51,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:nik.thompson@curtin.edu.au'
-  - icon: fa-linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nik-thompson-668a3417b/
   - icon: google-scholar

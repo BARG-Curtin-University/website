@@ -52,7 +52,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:michael.borck@curtin.edu.au'
-  - icon: fa-linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michaelborck/
   - icon: google-scholar
