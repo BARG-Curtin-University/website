@@ -1,6 +1,6 @@
 ---
-title: Weekli AI News
-date: 2023-05-28
+title: Weekly AI News
+date: 2023-06-04
 image:
   focal_point: 'top'
 ---
