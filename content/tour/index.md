@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: curtin-business-and-law.webp
+            filename: curtin-business-and-law.png
             filters:
               brightness: 0.7
           position: right
@@ -53,7 +53,7 @@ sections:
         align: right
         background:
           image:
-            filename: laptop-students-colaborating.webp
+            filename: laptop-students-colaborating.png
             filters:
               brightness: 0.5
           position: center
