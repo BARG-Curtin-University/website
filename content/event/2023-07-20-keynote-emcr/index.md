@@ -1,7 +1,6 @@
 ---
 title: Navigating the Future - Generative AI in Research
 
-
 event: School Advisory Board - August 15, 5-5.45 pm
 event_url: https://example.org
 
