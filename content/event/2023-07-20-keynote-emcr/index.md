@@ -1,34 +1,34 @@
 ---
-title: Example Event
+title: Navigating the Future - Generative AI in Research
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: EMCR July 20th
+# event_url: https://example.org
 
-location: Wowchemy HQ
+location: Curtin University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Kent Street
+  city: Bently
+  region: WA
+  postcode: '6102'
+  country: Austrlaia
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: ChatGPT Revolutionizing Learning and Teaching Through AI Interaction.
+abstract: 'The keynote wil providing a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research. The keynote will delve into the technicalities of Generative AI, its practical applications, and the ethical considerations required in its usage.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-07-20T10:00:00Z'
+date_end: '2023-07-20T11:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
