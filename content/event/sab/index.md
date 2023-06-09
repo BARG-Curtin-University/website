@@ -17,8 +17,8 @@ abstract: The keynote wil providing a comprehensive overview of the remarkable p
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-15-08T17:00:00Z'
-date_end: '2023-15-08T17:45:00Z'
+date: '2023-08-15T17:00:00Z'
+date_end: '2023-08-15T17:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
