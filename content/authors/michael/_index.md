@@ -27,7 +27,7 @@ bio: A seasoned computer scientist, educator, and co-founder of the Business AI 
 interests:
   - Artificial Intelligence
   - Natural Language Processing
-  - Computer Vision
+  - Cyber Security
 
 education:
   courses:
@@ -52,9 +52,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:michael.borck@curtin.edu.au'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+  - icon: fa-linkedin
+    icon_pack: fas
+    link: https://www.linkedin.com/in/michaelborck/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=fwNMowoAAAAJ
