@@ -13,7 +13,7 @@ address:
   country: Austrlaia
 
 summary: ChatGPT Revolutionizing Learning and Teaching Through AI Interaction.
-abstract: 'The keynote wil providing a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research. The keynote will delve into the technicalities of Generative AI, its practical applications, and the ethical considerations required in its usage.'
+abstract: The keynote wil providing a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research. The keynote will delve into the technicalities of Generative AI, its practical applications, and the ethical considerations required in its usage.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
