@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2023-06-09
 
 type: landing
 
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: assets/media/advancing_large_language_models.png
+            filename: advancing_large_language_models.png
             filters:
               brightness: 0.7
           position: center
@@ -68,7 +68,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-
+        link:
+          icon: fa-envelope-o
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
