@@ -26,7 +26,7 @@ sections:
       #  - 'Wednesday 12:00 to 2:00'
       # appointment_url: 'https://calendly.com'
       contact_links:
-        - icon: fa-linkedin
+        - icon: linkedin
           icon_pack: fas
           name: Discuss on LinkedIn
           link: 'https://www.linkedin.com/company/barg-curtin-university'

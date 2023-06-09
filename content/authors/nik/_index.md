@@ -28,6 +28,7 @@ interests:
   - Artificial Intelligence
   - Human Computer Interaction
   - Cyber Security
+  - Information Retreival
 
 education:
   courses:
@@ -50,7 +51,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:nik.thompson@curtin.edu.au'
-  - icon: fa-linkedin
+  - icon: linkedin
     icon_pack: fas
     link: https://www.linkedin.com/in/nik-thompson-668a3417b/
   - icon: google-scholar
