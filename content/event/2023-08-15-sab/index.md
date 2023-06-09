@@ -11,8 +11,9 @@ address:
   region: WA
   postcode: '6102'
   country: Austrlaia
+
 summary: ChatGPT Revolutionizing Learning and Teaching Through AI Interaction.
-abstract: 'ChatGPT can be a powerful tool for learning and teaching, providing a versatile platform for dynamic, interactive, and personalized education. It can assist in tutoring by explaining complex concepts in various subjects, providing real-time feedback, and offering personalized practice exercises. It can also be used as a study tool, allowing students to delve deeper into topics through an engaging dialogue format, or to test their knowledge with custom quizzes. Additionally, its vast knowledge base enables it to function as a comprehensive reference resource. ChatGPT's capacity to understand and generate human-like text allows it to adapt to different learning styles and paces, creating a more inclusive and effective learning environment. Instructors can use ChatGPT to automate some parts of their workflow, such as grading or generating teaching materials, thereby freeing up more time for personalized student interaction.'
+abstract: The keynote wil providing a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research. The keynote will delve into the technicalities of Generative AI, its practical applications, and the ethical considerations required in its usage.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
