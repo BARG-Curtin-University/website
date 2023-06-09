@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: Welcome to the contact page for the Business AI Research Group (BARG).  If you'd like to learn more, collaborate on a project, or discuss our research, please connect with us on LinkedIn.
+      text: If you'd like to learn more, collaborate on a project, or discuss our research, please connect with us on LinkedIn.
       # email: michael.borck@curtin.edu.au
       # phone: +61 8888 888 88 88
       # address:
@@ -44,24 +44,4 @@ sections:
       #    captcha: false
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 ---
