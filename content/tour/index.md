@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: curtin-business-and-law.webp
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: assets/media/advancing_large_language_models.png
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: monitor-ge004d51ff_1280.jpg
             filters:
               brightness: 0.5
           position: center
@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: AdobeStock_482832614.jpeg
             filters:
               brightness: 0.5
           position: center
@@ -53,7 +53,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: laptop-students-colaborating.webp
             filters:
               brightness: 0.5
           position: center
@@ -63,13 +63,13 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: artificial-intelligence-g89ade48a6_1280.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: email
           icon_pack: fas
           text: Join Us
           url: ../contact/
