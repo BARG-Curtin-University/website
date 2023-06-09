@@ -13,7 +13,7 @@ address:
   country: Australia
 
 summary: Navigating the Future - Generative AI in Research.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The keynote will provide a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research delving into the technicalities of Generative AI, practical applications, and the ethical considerations required in its usage.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
