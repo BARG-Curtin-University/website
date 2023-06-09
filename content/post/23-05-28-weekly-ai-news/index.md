@@ -1,5 +1,5 @@
 ---
-title: Weekly AI News
+title: AI in the News 2023-05-28
 date: 2023-05-28
 image:
   focal_point: 'top'
