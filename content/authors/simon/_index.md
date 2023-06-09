@@ -53,9 +53,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:D.Zhu@curtin.edu.au'
-  - icon: linkedin
-    icon_pack: fas
-    link: https://www.linkedin.com/in/nik-thompson-668a3417b/
+  #- icon: fa-linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/in/nik-thompson-668a3417b/
   #- icon: google-scholar
   #  icon_pack: ai
   #  link:
