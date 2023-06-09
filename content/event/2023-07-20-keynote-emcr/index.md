@@ -1,8 +1,9 @@
 ---
 title: Navigating the Future - Generative AI in Research
 
-event: EMCR July 20th
-# event_url: https://example.org
+
+event: School Advisory Board - August 15, 5-5.45 pm
+event_url: https://example.org
 
 location: Curtin University
 address:
@@ -12,13 +13,13 @@ address:
   postcode: '6102'
   country: Austrlaia
 
-summary: ChatGPT Revolutionizing Learning and Teaching Through AI Interaction.
-abstract: The keynote wil providing a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research. The keynote will delve into the technicalities of Generative AI, its practical applications, and the ethical considerations required in its usage.
+summary: Navigating the Future - Generative AI in Research
+abstract: 'The keynote wil providing a comprehensive overview of the remarkable potential of Generative AI and its transformative influence in the realm of academic research. The keynote will delve into the technicalities of Generative AI, its practical applications, and the ethical considerations required in its usage.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-20T10:00:00Z'
-date_end: '2023-07-20T11:45:00Z'
+date: '2023-08-15T17:00:00Z'
+date_end: '2023-08-15T17:45:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,7 +29,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
