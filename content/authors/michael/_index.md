@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Primary Researcher
+role: Principal Investigators
 
 # Organizations/Affiliations
 organizations:
