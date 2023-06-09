@@ -1,7 +1,7 @@
 ---
 title: ChatGPT - Revolutionizing Learning and Teaching Through AI Interaction
 
-event: School Advisory Board - August 15, 5-5.45 pm
+event: School Advisory Board
 # event_url: https://example.org
 
 location: Curtin University
