@@ -74,7 +74,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 Dr. Michael Borck is a highly experienced professional in the field of information systems, with expertise in areas such as machine learning, software engineering, and computer vision. His journey began at the Queensland University of Technology, where he obtained his a degree in Mathematics. Dr. Borck later attended the Australian National University, earning a  degree in Computer Science, and then furthered his education at Curtin University, where he received a Graduate Diploma in Business. In September 2017, Dr. Borck completed his PhD, which focused on feature extraction from multi-modal mobile mapping data.
