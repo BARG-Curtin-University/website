@@ -11,16 +11,16 @@ sections:
       text: Welcome to the contact page for the Business AI Research Group (BARG).  If you'd like to learn more, collaborate on a project, or discuss our research, please connect with us on LinkedIn.
       # email: michael.borck@curtin.edu.au
       # phone: +61 8888 888 88 88
-      address:
-        street: 1 Kent Street
-        city: Bentley
-        region: WA
-        postcode: '94305'
-        country: Australia
-        country_code: AU
-      coordinates:
-        latitude: '-32.0047'
-        longitude: '115.8941'
+      # address:
+      #  street: 1 Kent Street
+      #  city: Bentley
+      #  region: WA
+      #  postcode: '94305'
+      #  country: Australia
+      #  country_code: AU
+      #coordinates:
+      #  latitude: '-32.0047'
+      #  longitude: '115.8941'
       #directions: Enter Building 402 and take the stairs to Office 720 on Floor 7
       #office_hours:
       #  - 'Wednesday 12:00 to 2:00'
@@ -32,7 +32,7 @@ sections:
           link: 'https://www.linkedin.com/company/barg-curtin-university'
 
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
 
       # Email form provider
       #form:
