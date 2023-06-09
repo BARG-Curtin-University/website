@@ -25,7 +25,7 @@ sections:
           image:
             filename: advancing_large_language_models.png
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: center
           color: '#555'
       - title: Ethical Implications
@@ -71,7 +71,7 @@ sections:
         link:
           icon: fa-envelope-o
           icon_pack: fas
-          text: Join Us
+          text: Contact Us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
