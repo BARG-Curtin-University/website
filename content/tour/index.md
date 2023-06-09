@@ -68,11 +68,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: fa-envelope-o
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
