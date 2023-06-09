@@ -69,7 +69,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: email
+          icon: fa-envelope-o
           icon_pack: fas
           text: Join Us
           url: ../contact/
