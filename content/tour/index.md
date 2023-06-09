@@ -15,7 +15,7 @@ sections:
           image:
             filename: curtin-business-and-law.png
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
           color: '#666'
       - title: Advancing Language Models
@@ -23,9 +23,9 @@ sections:
         align: left
         background:
           image:
-            filename: advancing_large_language_models.png
+            filename: personal-growth-gbd5ab9129_1280.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.3
           position: center
           color: '#555'
       - title: Ethical Implications
@@ -35,7 +35,7 @@ sections:
           image:
             filename: monitor-ge004d51ff_1280.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
           color: '#333'
       - title: Potential Applications
@@ -45,7 +45,7 @@ sections:
           image:
             filename: AdobeStock_482832614.jpeg
             filters:
-              brightness: 0.5
+              brightness: 0.3
           position: center
           color: '#333'
       - title: Interdiscplinary Collaboration
