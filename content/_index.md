@@ -10,12 +10,12 @@ sections:
       title: |
         Bussiness AI Research Group
       image:
-        filename: welcome.jpg
+        filename: Datascienceandbigdatatechnology.Datascientistcomputinganalysingandvisualizingcomplexdatasetoncomputer.jpg
       text: |
         <br>
-        
+
         To drive innovation and transform businesses through cutting-edge AI research, industry collaborations, and fostering learning and teaching excellence.
-  
+
   - block: collection
     content:
       title: Latest News
@@ -34,7 +34,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: coders.jpg
           filters:
             brightness: 1
@@ -54,7 +54,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
+
   - block: markdown
     content:
       title:
