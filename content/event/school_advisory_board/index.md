@@ -13,7 +13,7 @@ address:
   country: Australia
 
 summary: ChatGPT Revolutionizing Learning and Teaching Through AI Interaction.
-abstract: 'ChatGPT can be a powerful tool for learning and teaching, providing a versatile platform for dynamic, interactive, and personalised education. It can assist in tutoring by explaining complex concepts in various subjects, providing real-time feedback, and offering personalised practice exercises. It can also be used as a study tool, allowing students to delve deeper into topics through an engaging dialogue format, or to test their knowledge with custom quizzes. Additionally, its vast knowledge base enables it to function as a comprehensive reference resource. ChatGPT's capacity to understand and generate human-like text allows it to adapt to different learning styles and paces, creating a more inclusive and effective learning environment. Instructors can use ChatGPT to automate some parts of their workflow, such as grading or generating teaching materials, thereby freeing up more time for personalized student interaction.'
+abstract: '.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
