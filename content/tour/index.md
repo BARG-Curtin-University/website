@@ -8,14 +8,14 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: Welcome to the group
         content: Take a look at what we're working on...
         align: center
         background:
           image:
             filename: curtin-business-and-law.png
             filters:
-              brightness: 0.4
+              brightness: 0.3
           position: right
           color: '#666'
       - title: Advancing Language Models
@@ -23,9 +23,9 @@ sections:
         align: left
         background:
           image:
-            filename: personal-growth-gbd5ab9129_1280.jpg
+            filename: advancing_large_language_models.png
             filters:
-              brightness: 0.3
+              brightness: 0.2
           position: center
           color: '#555'
       - title: Ethical Implications
@@ -35,7 +35,7 @@ sections:
           image:
             filename: monitor-ge004d51ff_1280.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.3
           position: center
           color: '#333'
       - title: Potential Applications
@@ -55,7 +55,7 @@ sections:
           image:
             filename: laptop-students-colaborating.png
             filters:
-              brightness: 0.5
+              brightness: 0.3
           position: center
           color: '#333'
       - title: Responsible AI Practices
@@ -65,7 +65,7 @@ sections:
           image:
             filename: artificial-intelligence-g89ade48a6_1280.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.3
           position: center
           color: '#333'
         link:
