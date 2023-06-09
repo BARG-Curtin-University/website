@@ -1,12 +1,12 @@
 ---
 title: SoMM School Advisory Board
 
-event: Wowchemy Conference
+event: SoMM School Advisory Board
 event_url: https://example.org
 
 location: Curtin University
 address:
-  street: 1 Kent Street
+  street: Kent Street
   city: Bentley
   region: WA
   postcode: '6102'
