@@ -1,16 +1,16 @@
 ---
-title: Example Event
+title: SoMM School Advisory Board
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Curtin University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 1 Kent Street
+  city: Bentley
+  region: WA
+  postcode: '6102'
+  country: Australia
 
 summary: An example event.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
