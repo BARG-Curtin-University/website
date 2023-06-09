@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: ChatGPT - Revolutionizing Learning and Teaching Through AI Interaction
 
-event: Wowchemy Conference
+event: School Advisory Board
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Curtin University
 address:
   street: 450 Serra Mall
   city: Stanford
